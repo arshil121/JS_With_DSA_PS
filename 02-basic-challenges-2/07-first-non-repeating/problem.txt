@@ -1,0 +1,3 @@
+Write a function called `findFirstNonRepeatingCharacter` that takes in a string and returns the first non-repeating character in the string.
+
+If there are no non-repeating characters, the function should return `null`.
