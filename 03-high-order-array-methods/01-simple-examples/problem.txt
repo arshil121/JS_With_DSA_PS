@@ -1,0 +1,8 @@
+Basic idea of:
+Map,
+Filter,
+Reduce
+ForEach
+some
+every
+find
