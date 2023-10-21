@@ -1,0 +1,1 @@
+Write a function called `arraySum` that takes in an array of numbers and returns their sum using recursion.

@@ -1,0 +1,1 @@
+Write a function called `fibonacci` that takes in a number and returns the number at that index of the Fibonacci sequence.
